@@ -1,0 +1,3 @@
+﻿  源.cpp
+f:\资料\projects\poj\1008\源.cpp(46): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  1008.vcxproj -> F:\资料\Projects\POJ\Debug\1008.exe

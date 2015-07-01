@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\资料\projects\poj\1001\源.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+f:\资料\projects\poj\1001\源.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+  1001.vcxproj -> F:\资料\Projects\POJ\Debug\1001.exe
